@@ -1,4 +1,0 @@
-85464;Jan;Zelený;m;180;70
-45672;Ondra;Kratochvíl;m;164;60
-41236;Ema;Fialová;f;170;54
-85236;Alena;Hluchá;f;165;72
